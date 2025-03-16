@@ -42,7 +42,7 @@ El proyecto está organizado de la siguiente manera:
 
 1. Clone este repositorio en su máquina local:
    ```
-   git clone https://github.com/Preko700/EstructurasDeDatos.git
+   git clone https://github.com/Preko700/Listas-Circulares-Tests-CA-2-DSA
    ```
 
 2. Abra la solución `EstructurasDeDatos.sln` en Visual Studio 2022.
@@ -59,7 +59,7 @@ El proyecto está organizado de la siguiente manera:
 
 1. Clone este repositorio en su máquina local:
    ```
-   git clone https://github.com/[usuario]/EstructurasDeDatos.git
+   git clone https://github.com/Preko700/Listas-Circulares-Tests-CA-2-DSA
    ```
 
 2. Navegue al directorio del proyecto:
