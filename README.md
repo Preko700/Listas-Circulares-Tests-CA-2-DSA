@@ -42,7 +42,7 @@ El proyecto está organizado de la siguiente manera:
 
 1. Clone este repositorio en su máquina local:
    ```
-   git clone https://github.com/[usuario]/EstructurasDeDatos.git
+   git clone https://github.com/Preko700/EstructurasDeDatos.git
    ```
 
 2. Abra la solución `EstructurasDeDatos.sln` en Visual Studio 2022.
@@ -109,9 +109,8 @@ Las pruebas unitarias verifican el correcto funcionamiento de todas las operacio
 
 ## Autores
 
-- [Nombre del Estudiante 1]
-- [Nombre del Estudiante 2]
+- Adrián Monge Mairena 
 
 ## Licencia
 
-Este proyecto está licenciado bajo los términos del Instituto Tecnológico de Costa Rica para fines educativos.
+Este proyecto está licenciado bajo los términos del Apache License 2.0
